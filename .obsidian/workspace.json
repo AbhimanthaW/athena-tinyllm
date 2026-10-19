@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/neural language-modelling/ngram-limitations.md",
+                "file": "learning/neural language-modelling/Representing Words Numerically.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ngram-limitations"
+              "title": "Representing Words Numerically"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.6404113769531,
-    "collapsed": true
+    "width": 262.6404113769531
   },
   "right": {
     "id": "af55a5de03639e43",
@@ -191,8 +190,9 @@
   },
   "active": "be216fa09211f233",
   "lastOpenFiles": [
+    "learning/neural language-modelling/ngram-limitations.md",
+    "learning/neural language-modelling/Representing Words Numerically.md",
     "Untitled.base",
-    "learning/statistical language-modelling/language-modelling.md",
-    "learning/neural language-modelling/ngram-limitations.md"
+    "learning/statistical language-modelling/language-modelling.md"
   ]
 }
